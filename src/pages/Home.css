@@ -1,0 +1,100 @@
+.body {
+    max-width: 1200vw;
+    height: 100vh;
+    overflow-x: hidden;
+    padding: 0%;
+    margin:auto;
+    color: white;
+    background-color: #4F0000;
+}
+
+a {
+    color: white;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:hover {
+    color: greenyellow;
+}
+
+a:active {
+    color: greenyellow;
+}
+
+.logo {
+    width: 250px;
+}
+
+.nav-1 {
+    color: white;
+    font-size: 12px;
+}
+
+.nav-2 {
+   justify-content: center;
+   padding: 10px;
+}
+
+.header {
+    background-color: black;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+
+.header-title {
+    color: white;
+    text-align: center;
+}
+
+.grid-1 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    text-align: center;
+}
+
+.bg {
+    z-index: -1;
+}
+
+.grid-2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-content: center;
+    padding: 25px;
+}
+
+.grid-3 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding: 25px;
+}
+
+.trailer1 {
+    width: 300px;
+}
+
+.trailer2 {
+    width: 300px;
+}
+
+.trailer3 {
+    width: 300px;
+}
+
+.rating {
+    width: 250px;
+}
+
+.footer {
+    background-color: black;
+}
+
+.footer-1 {
+    color: white;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}

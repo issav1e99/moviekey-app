@@ -1,0 +1,10 @@
+.body {
+    max-width: 1200vw;
+    height: 100vh;
+    overflow-x: hidden;
+    padding: 0%;
+    margin:auto;
+    color: white;
+    background-color: #4F0000;
+    
+}
